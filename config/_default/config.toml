@@ -1,4 +1,3 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Your Technologist Coach'
 theme = 'coaching'
@@ -7,3 +6,5 @@ theme = 'coaching'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
