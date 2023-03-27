@@ -2,7 +2,7 @@
   <div class="pullquote">
     <blockquote>
       <span>“</span>
-      {{ .Inner }}
+      {{ .Inner | .Page.RenderString }}
     </blockquote>
     <figcaption>{{ .Get 0 }}</figcaption>
   </div>
