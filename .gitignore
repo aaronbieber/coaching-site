@@ -2,6 +2,6 @@
 .\#*
 .hugo_build.lock
 public
-*.Zone.Identifier
+*Zone.Identifier
 resources
 themes/coaching
