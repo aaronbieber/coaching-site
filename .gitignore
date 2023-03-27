@@ -1,0 +1,7 @@
+\#*\#
+.\#*
+.hugo_build.lock
+public
+*.Zone.Identifier
+resources
+themes/coaching
