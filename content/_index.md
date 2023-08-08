@@ -56,22 +56,26 @@ does, and I’m so fortunate to have worked with him!
 
 {{< hr >}}
 
-I've coached senior staff at some of the coolest companies in Boston.
+I've coached senior engineering staff at these companies, among others:
 
 {{< row >}}
-{{< col 3 >}}
+{{< col 2 >}}
 ![Wayfair](/images/wayfair-logo-250.jpg) 
 {{< /col >}}
 
-{{< col 3 >}}
+{{< col 2 >}}
 ![HubSpot](/images/hubspot-logo-250.png) 
 {{< /col >}}
 
-{{< col 3 >}}
+{{< col 2 >}}
+![LinkedIn](/images/linkedin-logo-250.png)
+{{< /col >}}
+
+{{< col 2 >}}
 ![RapDev](/images/rapdev-logo-250.png) 
 {{< /col >}}
 
-{{< col 3 >}}
+{{< col 2 >}}
 ![Mentra](/images/mentra-logo-250.png) 
 {{< /col >}}
 {{< /row >}}
