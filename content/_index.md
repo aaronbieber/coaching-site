@@ -1,7 +1,7 @@
 ---
 title: The Tech Industry Needs a Change
 subtitle: The solution to toxic culture is great leaders. Is that you?
-image: forest-laptop-banner.png
+image: forest-laptop-banner.jpg
 ---
 
 {{< row >}}
