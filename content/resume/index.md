@@ -11,7 +11,7 @@ banner: false
 
 {{< narrow >}}
 
-![Man walking over a pit of fire](/images/man-over-fire.jpg ) 
+![Man walking over a pit of fire](man-over-fire.jpg ) 
 
 How well does your resume or LinkedIn profile reflect the value you bring into
 your work? Does it stand out from the hundreds of other applicant profiles a
@@ -60,7 +60,7 @@ with the recruiters and hiring managers you’re talking to?
 
 {{< row >}}
 {{< col 4 >}}
-![Two people making an agreement](/images/people-agreeing.jpg) 
+![Two people making an agreement](people-agreeing.jpg) 
 
 #### One-on-one consultation
 
@@ -72,7 +72,7 @@ and your goals.
 {{< /col >}}
 
 {{< col 4 >}}
-![A man holding a magnifying glass, reading a paper](/images/man-with-magnifying-glass.jpg) 
+![A man holding a magnifying glass, reading a paper](man-with-magnifying-glass.jpg) 
 
 #### LinkedIn & resume review
 
@@ -82,7 +82,7 @@ gaps and highlight your unique strengths.
 {{< /col >}}
 
 {{< col 4 >}}
-![A man carrying a gigantic pencil](/images/man-with-pencil.jpg) 
+![A man carrying a gigantic pencil](man-with-pencil.jpg) 
 
 #### Proofing & copy editing
 

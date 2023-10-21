@@ -4,7 +4,7 @@ layout: page
 banner: false
 ---
 
-![Aaron at Mount Washington](/images/mount-washington.jpg) 
+![Aaron at Mount Washington](mount-washington.jpg) 
 
 {{< spacer >}}
 

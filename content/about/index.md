@@ -9,7 +9,7 @@ banner: false
 
 # Meet Aaron
 
-![I'm Aaron](/images/meet-aaron.jpg ) 
+![I'm Aaron](meet-aaron.jpg ) 
 
 {{< spacer >}}
 
