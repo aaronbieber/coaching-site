@@ -2,7 +2,7 @@
 
 OPTS=-rovWz
 EXCLUDE=--exclude '.git*' --exclude '.*' --exclude '\#*\#' --exclude Makefile
-DEST=airborne@aaronbieber.com:/var/www/aaronbieber.coach/htdocs/
+DEST=airborne@10.20.10.40:/var/www/aaronbieber.coach/htdocs/
 
 build:
 	hugo --cleanDestinationDir -e production
