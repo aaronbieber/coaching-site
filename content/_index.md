@@ -1,13 +1,13 @@
 ---
-title: The Tech Industry Needs a Change
-subtitle: The solution to toxic culture is great leaders. Is that you?
+title: Looking For a Change?
+subtitle: Let's transform your "what ifs" into plans.
 image: forest-laptop-banner.jpg
 ---
 
+# Hi, I'm Aaron.
+
 {{< row >}}
 {{< col 3 >}}
-
-# I'm Aaron.
 
 ![](/images/headshot-bookshelf.jpg) 
 
@@ -15,44 +15,44 @@ image: forest-laptop-banner.jpg
 
 {{< col 9 >}}
 
-> **"You can have more than you've got because you can become more than you are.
-> Unless you change what you are, you'll always have what you've got."**---Jim Rohn
+Are you adrift in a fog of uncertainty? Do you want to change something about
+your career path, your work goals, your life?
 
-How would you rate your leadership on a scale from 1 to 10, with 10 being best?
+Are you spending a lot of time thinking about what to do next?
 
-What would get you to a 10? How will *you* have to change to make that happen?
-
-{{< dots >}}
-
-Are you ready to start the next chapter of your leadership career? Are you
-certain that there is more for you, but unsure how to plot your course?
-
-I help curious and empathetic leaders to:
-
-* Emerge from the fog of possible career futures with resolve
-
-* Align values, purpose, and talent to life’s most rewarding challenges
-
-* Create inspiring clarity in every action
-
-* Learn entirely new ways of engaging with their roles
-
-Are you ready to start your next adventure?
+Let's get you unstuck, and on the right path *for you*.
 
 {{< /col >}}
 {{< /row >}}
 
 {{< spacer >}}
 
-{{< button medium "/get-started" >}}Tell me about your quest{{< /button >}}
-
-{{< hr >}}
-
 {{< quote "Shea Belsky, CTO, Mentra" >}}
 My entire approach to leadership, management, and problem solving has been
 radically changed because of my coaching with Aaron. He’s superb at what he
 does, and I’m so fortunate to have worked with him!
 {{< /quote >}}
+
+I help curious and thoughtful engineers, leaders, and tech professionals to:
+
+* Create clear, actionable career plans
+
+* Align values, purpose, and talent across work and life
+
+* Learn entirely new ways of engaging with their roles
+
+Are you ready to start your next adventure?
+
+{{< spacer >}}
+
+{{< quote "Dalton Ryan, MathWorks" >}}
+Aaron was incredibly influential in my development as a manager and growth as a
+person.
+{{< /quote >}}
+
+{{< spacer >}}
+
+{{< button medium "/get-started" >}}Tell me about your quest{{< /button >}}
 
 {{< hr >}}
 

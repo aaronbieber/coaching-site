@@ -8,19 +8,28 @@ banner: false
 
 {{< spacer >}}
 
-## Let's transform the technology industry
+## How does this work, anyway?
 
-Coaching is an ongoing, transformative process. In each session, we convert your
-immediate, pressing challenges into compounding resilience. My mission is to
-expand your impact, creating a durable, sustainable, humane culture for your
-team and your company.
+Think of coaching as a partnership. My clients and I work together to take a
+pile of questions, aspirations, and values, and convert them into a plan with
+discrete and recognizable steps. Then, we get to work on them.
 
-I work with curious, empathetic, open-minded, high-performing leaders. I do not
-help people chase their OKRs, burden their teams with process, achieve promotion
-for its own sake, or manage the appearance of effectiveness.
+{{< quote "Antonio Pinho, HubSpot" >}}
+I've acquired invaluable insights that have positively impacted my leadership style.
+{{< /quote >}}
 
-I do help leaders create sustainable leverage through transparency, diversity,
-continuous feedback, experimentation, and deep personal reflection.
+Coaching can be challenging, emotional, and fulfilling. I find that I work best
+with folks who have something important to them that they're working on. Maybe
+that's a decision about taking on more leadership at work, or maybe it's a
+struggle to maintain relationships with difficult colleagues.
+
+Whatever *your* important challenge is, I'm ready to join you on your journey.
+I'll bring my expertise in navigating change, creating clarity, and my two
+decades of experience in the tech industry.
+
+We might work together for just a couple of months, or for longer than a year.
+It all depends on what *you* need to complete *your quest*. We'll work together
+to create a partnership that is right for you.
 
 {{< hr >}}
 
@@ -29,8 +38,3 @@ continuous feedback, experimentation, and deep personal reflection.
 {{< signupform >}}
 
 {{< spacer >}}
-
-{{< quote "Emily Roth, Sr. Engineering Manager, Wayfair" >}}
-Aaron coached me with candor when I first became a manager, ultimately leading to my promotion to senior manager.
-{{< /quote >}}
-
