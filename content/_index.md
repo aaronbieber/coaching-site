@@ -22,6 +22,13 @@ Are you spending a lot of time thinking about what to do next?
 
 Let's get you unstuck, and on the right path *for you*.
 
+{{< dots >}}
+
+I've been a software engineer and architect, a tech lead, a front-line manager,
+an engineering director, and I've started multiple successful businesses. I work
+one-on-one with curious, thoughtful, motivated tech professionals across all
+disciplines to *clear the fog* and to *create momentum*.
+
 {{< /col >}}
 {{< /row >}}
 
@@ -33,7 +40,7 @@ radically changed because of my coaching with Aaron. He’s superb at what he
 does, and I’m so fortunate to have worked with him!
 {{< /quote >}}
 
-I help curious and thoughtful engineers, leaders, and tech professionals to:
+I partner with my clients to:
 
 * Create clear, actionable career plans
 
@@ -41,7 +48,10 @@ I help curious and thoughtful engineers, leaders, and tech professionals to:
 
 * Learn entirely new ways of engaging with their roles
 
-Are you ready to start your next adventure?
+* Resolve interpersonal, team, and company frustrations
+
+When you're ready to take the next step toward what you really want, find one of
+the blue buttons.
 
 {{< spacer >}}
 
