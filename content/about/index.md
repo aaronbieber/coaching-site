@@ -4,57 +4,38 @@ layout: page
 banner: false
 ---
 
-{{< spacer >}}
-
-
-# Meet Aaron
-
-![I'm Aaron](meet-aaron.jpg ) 
+![I'm Aaron](meet-aaron.jpg)
 
 {{< spacer >}}
 
+When my application to the Rhode Island School of Design was rejected, I pivoted
+to the thing I'd been doing for fun and hadn't thought of as a career: writing
+code.
+I joined an educational startup, stayed through five years of turbulence, and
+found my footing in an industry I hadn't planned on.
 
-{{< row >}}
+Along the way, I co-founded a photography instruction business with a close
+friend and taught on-location workshops across the country. We had to close when
+the 2008 financial crisis hit, but what stayed with me wasn't the loss of the
+business, it was the discovery that teaching people to see differently was one
+of the most satisfying things I had ever done.
 
-{{< col 2 >}}
-{{< /col >}}
+That discovery sat in the background for years while I worked my way through
+each layer of a software career, from engineer to tech lead to manager to
+director. As the roles grew larger and more complex, the nature of the work
+shifted. The problems I spent my time on were less and less about code and more
+and more about how people communicate, make decisions under pressure, and find
+their footing when the terrain feels unfamiliar.
 
-{{< col 8 >}}
+The specific moment of recognition came when I read [The Coaching
+Habit](https://amzn.to/3cFD0Qf) by Michael Bungay Stanier. Reading it, I
+understood at once that coaching was a real discipline with real techniques, and
+that I had been attempting it for years without knowing what it was or doing it
+particularly well. That realization sent me to formal coaching training, to more
+books, and eventually to building a practice around the work I had already been
+doing by instinct.
 
-## Your technologist coach
+When I'm not coaching, you'll find me with my son, out with my camera, or flying
+my drone.
 
-After a failed bid to get into the Rhode Island School of Design, which I was
-sure would land me a dream job as a graphic designer, I found myself applying my
-self-taught programming skills at an educational start-up. I ended up staying
-with that company through five tumultuous years.
-
-While hopping between start-ups, I co-founded a photography instruction business
-with a close friend and taught on-location workshops across the country. Though
-we had to shutter the business in the '08 financial crisis, I learned that
-teaching was a source of great fulfillment for me.
-
-One job led to another, and now I've been in the software industry for over 20
-years and have worked for both start-ups and giants like Wayfair.
-
-As I worked for increasingly large and complex tech organizations, and took on
-more leadership responsibilities, my job slowly shifted from solving software
-problems to solving people problems.
-
-Eventually, I came to the realization that a lot of what I had been doing to
-help people find their paths forward is actually coaching.
-
-When I'm not coaching people through their unique challenges, you'll find me
-hanging out with my son, taking landscape and architectural photographs, or
-flying my drone.
-
-What would you create, if you knew you couldn't fail?
-
-{{< button medium "/get-started" >}}Ready for a change?{{< /button >}}
-
-{{< /col >}}
-
-{{< col 2 >}}
-{{< /col >}}
-
-{{< /row >}}
-
+{{< button medium "/get-started" >}}Start the conversation{{< /button >}}
