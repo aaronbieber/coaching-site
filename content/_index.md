@@ -57,7 +57,7 @@ When you work with me, you get:
  - The language and tools to communicate effectively at every level of your
    organization, including the conversations that feel hardest
  - A leadership style that's authentically yours, rather than borrowed from
-   whoever you think a good leader is supposed to look like
+   whatever you think a good leader is supposed to look like
 
 When you're ready to get your bearings, find one of the blue buttons.
 
