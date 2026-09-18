@@ -34,7 +34,7 @@ of partnership for whatever is in front of you right now.
 
   <p class="price-note">Enjoy 35% off until I change my mind.</p>
 
-  {{< button medium "https://payments-na1.hubspot.com/payments/rhJZhcfWzMC?referrer=PAYMENT_LINK" >}}Book Your Session{{< /button >}}
+  {{< button medium "https://payments-na1.hubspot.com/payments/rhJZhcfWzMC?referrer=PAYMENT_LINK" blank >}}Book Your Session{{< /button >}}
 </div>
 
 {{< spacer >}}
