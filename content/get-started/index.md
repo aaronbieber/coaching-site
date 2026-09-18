@@ -37,6 +37,14 @@ clients continue much longer than that. Meaningful change doesn't come from a
 single conversation; it accumulates through consistent effort and the
 willingness to keep showing up.
 
+{{< cta title="Not ready for that kind of commitment?" href="/clear-the-fog" button="Learn About Clear the Fog" image="/clear-the-fog/clear-the-fog-map.png" imagealt="Illustration of a person looking through a spyglass" >}}
+Sometimes what you need isn't a three-month engagement. It's a thinking
+partner for one particular moment: a decision you can't quite see the shape
+of, a conversation you're dreading, a fork in the road you don't want to
+navigate alone. Clear the Fog is a single, focused session built for exactly
+that.
+{{< /cta >}}
+
 {{< hr >}}
 
 ## Ready to get started? Let's talk.
