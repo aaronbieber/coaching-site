@@ -32,7 +32,7 @@ uncomfortable at first, but after a few sessions I realized that it was
 yielding great results, so I began to lean into it more.
 {{< /quote >}}
 
-This kind of work takes time. My minimum engagement is three months, and many
+This kind of work takes time. Engagements run one month or three, and many
 clients continue much longer than that. Meaningful change doesn't come from a
 single conversation; it accumulates through consistent effort and the
 willingness to keep showing up.
