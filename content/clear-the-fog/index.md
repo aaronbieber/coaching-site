@@ -26,6 +26,10 @@ This is not a pitch for a longer engagement. If you need more support after this
 hour, we can talk about the ways I could help, but this is a self-contained hour
 of partnership for whatever is in front of you right now.
 
+**Before signing up, please note:** I reserve my capacity for clients on
+retainer, so I have limited availability for Clear the Fog sessions. If you need
+something consistent and guaranteed, this may not be the best option.
+
 <div class="price-box">
   <div class="price-tag">
     <span class="price-original">$300</span>
