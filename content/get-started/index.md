@@ -36,26 +36,36 @@ yielding great results, so I began to lean into it more.
 
 ## Three ways to work together
 
-Most people start with Reach the Summit, a three-month coaching engagement at
-$1,000 a month, paid in advance. It's the most popular choice, and the one
-best suited to real, durable change. On rare occasions, when cost is a
-genuine barrier and I believe in what someone is building, I'll make an
-exception on price; that's a judgment call I make about specific people, not
-a standing offer.
+Most people start with "Reach the Summit," a three-month coaching partnership at
+$1,000 a month, paid in advance. It's the most popular choice, and the one best
+suited to real, durable change. When we partner, I make myself available on a
+"retainer" model. What that means is that the practicalities of our work
+together are always negotiable: when we meet, for how long, and access to
+additional coaching via email, text, or phone can all be explored and modified
+as our partnership evolves.
 
-{{< button medium "/reach-the-summit/?engagement_interest=Reach+the+Summit" >}}Reach the Summit{{< /button >}}
+On rare occasions, when cost is a genuine barrier and I believe in what someone
+is building, I'll make an exception on my fee. In those cases, we'll talk about
+what the engagement needs to look like to meet both of our needs.
 
-If three months feels like more commitment than you're ready for, Walk the
-Trail is a single month of the same work, priced at $1,300 flat, a premium
-for the flexibility of no longer commitment.
+{{< button medium "/reach-the-summit/?engagement_interest=reach-the-summit" >}}Reach the Summit{{< /button >}}
 
-{{< button medium "/walk-the-trail/?engagement_interest=Walk+the+Trail" >}}Walk the Trail{{< /button >}}
+If three months feels like more commitment than you're ready for, "Walk the
+Trail" is a single month of the same work, priced at $1,300 flat, a premium for
+the flexibility of no longer commitment. This program is also a retainer model,
+and you have access to unlimited coaching within reason, and the logistics of
+our partnership are always open to change.
 
-And if what you need isn't an engagement at all, just a thinking partner for
-one particular moment, a decision you can't quite see the shape of, a
-conversation you're dreading, a fork in the road you don't want to navigate
-alone, [Get Your Bearings](/get-your-bearings) is a single, focused, one-hour
-session for $325.
+{{< button medium "/walk-the-trail/?engagement_interest=walk-the-trail" >}}Walk the Trail{{< /button >}}
+
+And if what you need isn't an engagement at all, just a thinking partner for one
+particular moment, a decision you can't quite see the shape of, a conversation
+you're dreading, a fork in the road you don't want to navigate alone, "Get Your
+Bearings" is a single, focused, one-hour session for $325.
+
+This is a bounded container for working on a specific topic, and does not come
+with any additional access to me. I reserve only one or two hours a week for
+"Get Your Bearings" clients on a first-come, first-served basis.
 
 {{< button medium "/get-your-bearings/" >}}Get Your Bearings{{< /button >}}
 
