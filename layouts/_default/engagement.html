@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="blog-item">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <div class="price-box">
+    <div class="price-tag">
+      <span class="price-current">{{ .Params.price }}</span>
+    </div>
+    {{ with .Params.price_detail }}<p class="price-note">{{ . }}</p>{{ end }}
+  </div>
+
+  <h2>Let's talk</h2>
+  {{ with .Params.tagline }}<p>{{ . }}</p>{{ end }}
+
+  {{ partial "signupform.html" . }}
+</div>
+{{ end }}

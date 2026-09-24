@@ -32,23 +32,45 @@ uncomfortable at first, but after a few sessions I realized that it was
 yielding great results, so I began to lean into it more.
 {{< /quote >}}
 
-This kind of work takes time. Engagements run one month or three, and many
-clients continue much longer than that. Meaningful change doesn't come from a
-single conversation; it accumulates through consistent effort and the
-willingness to keep showing up.
+{{< spacer >}}
 
-{{< cta title="Not ready for that kind of commitment?" href="/clear-the-fog" button="Learn About Clear the Fog" image="/clear-the-fog/clear-the-fog-map.png" imagealt="Illustration of a person looking through a spyglass" >}}
-Sometimes what you need isn't a three-month engagement. It's a thinking
-partner for one particular moment: a decision you can't quite see the shape
-of, a conversation you're dreading, a fork in the road you don't want to
-navigate alone. Clear the Fog is a single, focused session built for exactly
-that.
-{{< /cta >}}
+## Three ways to work together
 
-{{< hr >}}
+Most people start with "Reach the Summit," a three-month coaching partnership at
+$1,000 a month, paid in advance. It's the most popular choice, and the one best
+suited to real, durable change. When we partner, I make myself available on a
+"retainer" model. What that means is that the practicalities of our work
+together are always negotiable: when we meet, for how long, and access to
+additional coaching via email, text, or phone can all be explored and modified
+as our partnership evolves.
 
-## Ready to get started? Let's talk.
+On rare occasions, when cost is a genuine barrier and I believe in what someone
+is building, I'll make an exception on my fee. In those cases, we'll talk about
+what the engagement needs to look like to meet both of our needs.
 
-{{< signupform >}}
+{{< button medium "/reach-the-summit/?engagement_interest=reach-the-summit" >}}Reach the Summit{{< /button >}}
+
+If three months feels like more commitment than you're ready for, "Walk the
+Trail" is a single month of the same work, priced at $1,300 flat, a premium for
+the flexibility of no longer commitment. This program is also a retainer model,
+and you have access to unlimited coaching within reason, and the logistics of
+our partnership are always open to change.
+
+{{< button medium "/walk-the-trail/?engagement_interest=walk-the-trail" >}}Walk the Trail{{< /button >}}
+
+And if what you need isn't an engagement at all, just a thinking partner for one
+particular moment, a decision you can't quite see the shape of, a conversation
+you're dreading, a fork in the road you don't want to navigate alone, "Get Your
+Bearings" is a single, focused, one-hour session for $325.
+
+This is a bounded container for working on a specific topic, and does not come
+with any additional access to me. I reserve only one or two hours a week for
+"Get Your Bearings" clients on a first-come, first-served basis.
+
+{{< button medium "/get-your-bearings/" >}}Get Your Bearings{{< /button >}}
+
+This kind of work takes time. Reach the Summit and Walk the Trail both exist
+because meaningful change doesn't come from a single conversation; it
+accumulates through consistent effort and the willingness to keep showing up.
 
 {{< spacer >}}
