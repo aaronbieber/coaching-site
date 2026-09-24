@@ -1,10 +1,12 @@
 ---
-title: Clear the Fog
+title: Get Your Bearings
 layout: page
 banner: false
+aliases:
+  - /clear-the-fog/
 ---
 
-![Illustration of a person looking through a spyglass](clear-the-fog-map.png)
+![Illustration of a person looking through a spyglass](get-your-bearings-spyglass.png)
 
 {{< spacer >}}
 
@@ -15,7 +17,7 @@ is a single, focused conversation: a thinking partner for the one decision, the
 one conversation, the one fork in the road that's currently eating your
 attention.
 
-Clear the Fog is a single one-hour coaching session built for exactly that
+Get Your Bearings is a single one-hour coaching session built for exactly that
 moment. We'll take whatever is unclear to you right now, whether it's a decision
 you can't quite see the shape of, a conversation you're dreading, or a choice
 you keep circling without landing on, and work it until it resolves into
@@ -26,17 +28,15 @@ This is not a pitch for a longer engagement. If you need more support after this
 hour, we can talk about the ways I could help, but this is a self-contained hour
 of partnership for whatever is in front of you right now.
 
-**Please note:** I have only one Clear the Fog session slot available per week,
-so if you need something consistent and guaranteed, this may not be the best
-option for you.
+I only hold one or two of these one-hour slots open per week, total, so booking
+one weekly isn't something this format guarantees. And each session is scoped
+to a single topic or decision, not an open-ended engagement; it doesn't carry
+context from one session into the next the way ongoing coaching would.
 
 <div class="price-box">
   <div class="price-tag">
-    <span class="price-original">$300</span>
-    <span class="price-current">$197</span>
+    <span class="price-current">$325</span>
   </div>
-
-  <p class="price-note">Enjoy 35% off until I change my mind.</p>
 
   {{< button medium "https://payments-na1.hubspot.com/payments/rhJZhcfWzMC?referrer=PAYMENT_LINK" blank >}}Book Your Session{{< /button >}}
 </div>
@@ -53,8 +53,8 @@ need to have it organized before we talk; that's what the hour is for.
 
 ## Is this the right fit?
 
-Clear the Fog works best when you have one specific thing weighing on you, not a
-general sense that things are hard. If what you're carrying is bigger than a
-single moment, an ongoing pattern, a long-term transition, or a role that
+Get Your Bearings works best when you have one specific thing weighing on you,
+not a general sense that things are hard. If what you're carrying is bigger than
+a single moment, an ongoing pattern, a long-term transition, or a role that
 consistently feels too big, a longer engagement will serve you
 better. [Learn more about working together](/get-started).
