@@ -1,9 +1,10 @@
 <div class="block">
-  <div class="pullquote">
-    <blockquote>
-      <span>“</span>
-      {{ .Inner | .Page.RenderString }}
-    </blockquote>
-    <figcaption>{{ .Get 0 }}</figcaption>
-  </div>
+<div class="pullquote">
+{{ partial "wavyline.html" (dict "orientation" "vertical" "period" 40 "amplitude" 2 "strokeWidth" 3) }}
+<blockquote>
+<span>“</span>
+{{ .Inner | .Page.RenderString }}
+</blockquote>
+<figcaption>{{ .Get 0 }}</figcaption>
+</div>
 </div>

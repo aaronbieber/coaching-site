@@ -1,33 +1,10 @@
 ---
 title: In over your head?
-subtitle: You earned this role, but you're also overwhelmed by it.
-image: forest-laptop-banner.jpg
+subtitle: Clarity and confidence in your biggest role.
+image: hero-tetons.jpg
+cta_href: /get-started
+cta_label: Learn More
 ---
-
-# Hi, I'm Aaron.
-
-{{< row >}}
-{{< col 3 >}}
-
-![](/images/headshot-bookshelf.jpg) 
-
-{{< /col >}}
-
-{{< col 9 >}}
-
-You're good at this job, and that's how you earned the biggest role of your
-career. But now you're spending a lot of time and energy second-guessing
-yourself, and you feel alone in that struggle.
-
-{{< dots >}}
-
-I've been that person. I've spent more than twenty five years in the software
-industry as an engineer, a tech lead, a manager, and a director, and I can tell
-you that the disorientation, the isolation, the overwhelm... they're navigable.
-
-And you don't have to figure it out by yourself.
-
-{{< dots >}}
 
 You haven't failed to develop skill or ambition; those are exactly what got you here. What you're missing is a map for this specific territory, and nobody could have handed you one ahead of time, because every leader has to chart their own.
 
@@ -38,18 +15,15 @@ high-resolution map of the terrain. Together, we'll develop frameworks and
 language to understand what's actually happening in your organization, what's
 being asked of you, and how to step into the role without the constant second-guessing.
 
-{{< /col >}}
-{{< /row >}}
-
-{{< spacer >}}
-
 {{< quote "Ryan Ellison, Senior Software Engineering Manager, Wayfair" >}}
 What initially felt overwhelming was soon transformed into calm and a clear
 direction under his guidance.
 {{< /quote >}}
 
-When you work with me, you get:
+{{< spacer >}}
 
+<div class="home-sections">
+{{< homesection title="This is for you if you need..." >}}
  - A clear, shared definition of what success in your role actually looks like
  - An outside perspective from someone who has been in the rooms you're in, and
    can name what you're experiencing before you can
@@ -59,20 +33,29 @@ When you work with me, you get:
  - A leadership style that's authentically yours, rather than borrowed from
    whatever you think a good leader is supposed to look like
 
-When you're ready to get your bearings, find one of the blue buttons.
-
-{{< spacer >}}
-
 {{< quote "Dalton Ryan, Engineering Manager, MathWorks" >}}
 Aaron provides a mirror to view your present self, the best version of yourself
 in the future, and the strategy and success criteria necessary to close the gap.
 {{< /quote >}}
+{{< /homesection >}}
+
+{{< homesection title="Meet Aaron" href="/about" button="Read my story" >}}
+Twenty five years in software, from engineer to director, and what led me
+to coaching.
+{{< /homesection >}}
+
+{{< homesection title="Work With Aaron" href="/get-started" button="See how this works" >}}
+Three ways to work together, from a single session to an ongoing
+partnership.
+{{< /homesection >}}
+
+{{< homesection title="The Curious Leader" href="https://thecuriousleader.work" button="Listen or subscribe" >}}
+Newsletter and podcast for engineering leaders navigating unfamiliar
+terrain.
+{{< /homesection >}}
+</div>
 
 {{< spacer >}}
-
-{{< button medium "/get-started" >}}Start the conversation{{< /button >}}
-
-{{< hr >}}
 
 I've coached senior engineering staff at these companies, among others:
 
@@ -97,3 +80,13 @@ I've coached senior engineering staff at these companies, among others:
 ![Mentra](/images/mentra-logo-250.png) 
 {{< /col >}}
 {{< /row >}}
+
+<!--
+Held for later use, removed from the intro flow on 2026-09-25:
+
+I've been that person. I've spent more than twenty five years in the software
+industry as an engineer, a tech lead, a manager, and a director, and I can tell
+you that the disorientation, the isolation, the overwhelm... they're navigable.
+
+And you don't have to figure it out by yourself.
+-->
