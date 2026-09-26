@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="blog-item">
-  <h1>{{ .Title }}</h1>
+  {{ partial "pageheading.html" (dict "title" .Title) }}
 
   {{ .Content }}
 
@@ -11,7 +11,7 @@
     {{ with .Params.price_detail }}<p class="price-note">{{ . }}</p>{{ end }}
   </div>
 
-  <h2>Let's talk</h2>
+  <h2>Apply</h2>
   {{ with .Params.tagline }}<p>{{ . }}</p>{{ end }}
 
   {{ partial "signupform.html" . }}

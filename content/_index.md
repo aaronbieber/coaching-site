@@ -6,14 +6,18 @@ cta_href: /get-started
 cta_label: Learn More
 ---
 
-You haven't failed to develop skill or ambition; those are exactly what got you here. What you're missing is a map for this specific territory, and nobody could have handed you one ahead of time, because every leader has to chart their own.
+You haven't failed to develop skill or ambition; those are exactly what got you
+here. What you're missing is a map for this specific territory, and nobody could
+have handed you one ahead of time, because every leader has to chart their own.
 
-The terrain shifts with every organization, every team, and every moment in a company's life, and the maps that worked for someone else won't work for you.
+The terrain shifts with every organization, every team, and every moment in a
+company's life, and the maps that worked for someone else won't work for you.
 
 I work one-on-one with engineering leaders to replace your basic compass with a
 high-resolution map of the terrain. Together, we'll develop frameworks and
 language to understand what's actually happening in your organization, what's
-being asked of you, and how to step into the role without the constant second-guessing.
+being asked of you, and how to step into the role without the constant
+second-guessing.
 
 {{< quote "Ryan Ellison, Senior Software Engineering Manager, Wayfair" >}}
 What initially felt overwhelming was soon transformed into calm and a clear
@@ -39,14 +43,43 @@ in the future, and the strategy and success criteria necessary to close the gap.
 {{< /quote >}}
 {{< /homesection >}}
 
-{{< homesection title="Meet Aaron" href="/about" button="Read my story" >}}
-Twenty five years in software, from engineer to director, and what led me
-to coaching.
+{{< homesection title="Work With Aaron" href="/get-started" button="Learn more" >}}
+Join the many other incredible people I've worked with in finding clarity,
+direction, confidence, and alignment.
 {{< /homesection >}}
 
-{{< homesection title="Work With Aaron" href="/get-started" button="See how this works" >}}
-Three ways to work together, from a single session to an ongoing
-partnership.
+{{< homesection title="Meet Aaron" >}}
+![I'm Aaron](/about/meet-aaron.jpg)
+
+When my application to the Rhode Island School of Design was rejected, I pivoted
+to the thing I'd been doing for fun and hadn't thought of as a career: writing
+code.
+I joined an educational startup, stayed through five years of turbulence, and
+found my footing in an industry I hadn't planned on.
+
+Along the way, I co-founded a photography instruction business with a close
+friend and taught on-location workshops across the country. We had to close when
+the 2008 financial crisis hit, but what stayed with me wasn't the loss of the
+business, it was the discovery that teaching people to see differently was one
+of the most satisfying things I had ever done.
+
+That discovery sat in the background for years while I worked my way through
+each layer of a software career, from engineer to tech lead to manager to
+director. As the roles grew larger and more complex, the nature of the work
+shifted. The problems I spent my time on were less and less about code and more
+and more about how people communicate, make decisions under pressure, and find
+their footing when the terrain feels unfamiliar.
+
+The specific moment of recognition came when I read [The Coaching
+Habit](https://amzn.to/3cFD0Qf) by Michael Bungay Stanier. Reading it, I
+understood at once that coaching was a real discipline with real techniques, and
+that I had been attempting it for years without knowing what it was or doing it
+particularly well. That realization sent me to formal coaching training, to more
+books, and eventually to building a practice around the work I had already been
+doing by instinct.
+
+When I'm not coaching, you'll find me with my son, out with my camera, or flying
+my drone.
 {{< /homesection >}}
 
 {{< homesection title="The Curious Leader" href="https://thecuriousleader.work" button="Listen or subscribe" >}}
@@ -59,27 +92,13 @@ terrain.
 
 I've coached senior engineering staff at these companies, among others:
 
-{{< row >}}
-{{< col 2 >}}
-![Wayfair](/images/wayfair-logo-250.jpg) 
-{{< /col >}}
-
-{{< col 2 >}}
-![HubSpot](/images/hubspot-logo-250.png) 
-{{< /col >}}
-
-{{< col 2 >}}
-![LinkedIn](/images/linkedin-logo-250.png)
-{{< /col >}}
-
-{{< col 2 >}}
-![RapDev](/images/rapdev-logo-250.png) 
-{{< /col >}}
-
-{{< col 2 >}}
-![Mentra](/images/mentra-logo-250.png) 
-{{< /col >}}
-{{< /row >}}
+<div class="logo-grid">
+<div class="logo-cell"><img src="/images/wayfair-logo-250.jpg" alt="Wayfair"></div>
+<div class="logo-cell"><img src="/images/hubspot-logo-250.png" alt="HubSpot"></div>
+<div class="logo-cell"><img src="/images/linkedin-logo-250.png" alt="LinkedIn"></div>
+<div class="logo-cell"><img src="/images/rapdev-logo-250.png" alt="RapDev"></div>
+<div class="logo-cell"><img src="/images/mentra-logo-250.png" alt="Mentra"></div>
+</div>
 
 <!--
 Held for later use, removed from the intro flow on 2026-09-25:

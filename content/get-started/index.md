@@ -1,30 +1,36 @@
 ---
-title: Get Started
+title: Apply
 layout: page
 banner: false
 ---
 
+## What to expect
+
+My approach begins with gaining an understanding of where you are now, what is
+weighing on you, and where you feel lost. From there we build a clear and
+animated vision of where you want to go: specific goals you wish to achieve, how
+you want to show up for yourself and others, and how you'll need to be different
+to get there.
+
+I coach primarily for the gratification of creating something consequential.
+That might be a dramatic shift for someone like you, or something that my
+support will help you to achieve that is making the world a better place. That
+said, I have limited capacity and I am selective in whom I work with.
+
 ![Aaron at Mount Washington](mount-washington.jpg) 
-
-{{< spacer >}}
-
-## How does this work, anyway?
-
-The map we build together starts with what you already know: your read of the
-organization, your sense of what's being asked of you, and your honest account
-of where you feel lost. From there, we develop the frameworks and language to
-make sense of what's actually happening, so that what felt like fog starts to
-resolve into terrain you can navigate.
 
 I work best with engineering leaders who are in the biggest role of their
 careers so far: people who are technically capable and genuinely motivated, but
 who find themselves navigating scope and organizational complexity they haven't
 encountered before.
 
-The second-guessing, the isolation, the sense that you should have already
-figured this out: those are exactly the signs I look for, not because they
-indicate something wrong with who you are, but because they indicate the kind
-of challenge that coaching is built to address.
+I have also worked with individual contributors, product leaders, and others.
+Don't let your title stop you from exploring a partnership! I help people
+achieve all types of personal growth, but what I explicitly do not do is help
+them earn more money or "climb the ladder."
+
+A raise or promotion is likely to arrive as a result of your growth, but it is
+never the explicit goal.
 
 {{< quote "Viktoras Truchanovicius, Staff Software Engineer, LinkedIn" >}}
 I was very much in control of the whole experience and outcomes, which was
