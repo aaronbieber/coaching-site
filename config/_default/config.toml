@@ -2,6 +2,12 @@ languageCode = 'en-us'
 title = 'The Aaron Approach'
 theme = 'coaching'
 
+[params]
+  # This site's own decision (unlike the blog, which shares this theme
+  # and does want a nav menu): no nav menu anywhere, ever. All
+  # navigation happens through the homepage's callout sections.
+  navEnabled = false
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
