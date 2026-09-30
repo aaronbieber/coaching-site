@@ -6,16 +6,16 @@ aliases:
   - /clear-the-fog/
 ---
 
-![Illustration of a person looking through a spyglass](get-your-bearings-spyglass.png)
-
-{{< spacer >}}
-
-## Create clarity in one hour
-
 Not every hard moment calls for a long-term engagement. Sometimes what you need
 is a single, focused conversation: a thinking partner for the one decision, the
 one conversation, the one fork in the road that's currently eating your
 attention.
+
+<img src="/images/hiking-couple-with-sign.png" alt="Illustration of a hiking couple at a trail sign" class="native half">
+
+{{< spacer >}}
+
+## Create clarity in one hour
 
 Get Your Bearings is a single one-hour coaching session built for exactly that
 moment. We'll take whatever is unclear to you right now, whether it's a decision

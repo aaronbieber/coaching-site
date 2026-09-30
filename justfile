@@ -1,7 +1,7 @@
 opts := "-rovWz"
 exclude := "--exclude '.git*' --exclude '.*' --exclude '\\#*\\#' --exclude Makefile --exclude justfile"
 src := "./public/"
-dest := "airborne@10.20.10.40:/var/www/aaronbieber.coach/htdocs/"
+dest := "airborne@10.20.10.40:/var/www/theaaronapproach.com/htdocs/"
 
 build:
     hugo --cleanDestinationDir -e production

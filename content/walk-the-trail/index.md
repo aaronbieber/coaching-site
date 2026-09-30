@@ -14,3 +14,5 @@ option to stop after a month, not for less of my attention. Some people
 who start here choose to continue into a longer engagement once they've
 felt what the work is like. Others get what they need in the month, and
 that's the end of it.
+
+<img src="/images/hiking-couple-climbing.png" alt="Illustration of a hiking couple climbing" class="native half">

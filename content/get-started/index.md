@@ -17,7 +17,7 @@ That might be a dramatic shift for someone like you, or something that my
 support will help you to achieve that is making the world a better place. That
 said, I have limited capacity and I am selective in whom I work with.
 
-![Aaron at Mount Washington](mount-washington.jpg) 
+<img src="/images/hiking-couple-on-ropes.png" alt="Illustration of a hiking couple on ropes" class="native half">
 
 I work best with engineering leaders who are in the biggest role of their
 careers so far: people who are technically capable and genuinely motivated, but
