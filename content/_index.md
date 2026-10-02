@@ -6,9 +6,10 @@ cta_href: /get-started
 cta_label: Learn More
 ---
 
-You haven't failed to develop skill or ambition; those are exactly what got you
-here. What you're missing is a map for this specific territory, and nobody could
-have handed you one ahead of time, because every leader has to chart their own.
+You haven't failed to develop the skills, and you don't lack ambition; those are
+exactly what got you here. What you're missing is a map for this specific
+territory, and nobody could have given you one, because every leader has to draw
+their own.
 
 The terrain shifts with every organization, every team, and every moment in a
 company's life, and the maps that worked for someone else won't work for you.
