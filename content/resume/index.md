@@ -27,7 +27,7 @@ and my long-practiced writing skills.
 
 {{< spacer >}}
 
-{{< quote "Prathyusha Bobba" >}}
+{{< quote "Prathyusha B." >}}
 Thank you so much for your guidance. You definitely helped me to improve my job search.
 {{< /quote >}}
 

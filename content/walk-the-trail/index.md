@@ -15,4 +15,9 @@ who start here choose to continue into a longer engagement once they've
 felt what the work is like. Others get what they need in the month, and
 that's the end of it.
 
+{{< quote "Dalton R., Engineering Manager, MathWorks" >}}
+Aaron provides a mirror to view your present self, the best version of yourself
+in the future, and the strategy and success criteria necessary to close the gap.
+{{< /quote >}}
+
 <img src="/images/hiking-couple-climbing.png" alt="Illustration of a hiking couple climbing" class="native half">

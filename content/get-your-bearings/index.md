@@ -11,6 +11,11 @@ is a single, focused conversation: a thinking partner for the one decision, the
 one conversation, the one fork in the road that's currently eating your
 attention.
 
+{{< quote "Ryan E., Senior Software Engineering Manager, Wayfair" >}}
+What initially felt overwhelming was soon transformed into calm and a clear
+direction under his guidance.
+{{< /quote >}}
+
 <img src="/images/hiking-couple-with-sign.png" alt="Illustration of a hiking couple at a trail sign" class="native half">
 
 {{< spacer >}}
@@ -32,6 +37,12 @@ I only hold one or two of these one-hour slots open per week, total, so booking
 one weekly isn't something this format guarantees. And each session is scoped
 to a single topic or decision, not an open-ended engagement; it doesn't carry
 context from one session into the next the way ongoing coaching would.
+
+{{< quote "Tyler D., Director of Engineering at a Series A startup" >}}
+Aaron helped me name the values I hold across my life and see how much of what I
+wanted I was already getting. Then he supported me through recalibrating my
+ambitions at work to align with those values.
+{{< /quote >}}
 
 <div class="price-box">
   <div class="price-tag">

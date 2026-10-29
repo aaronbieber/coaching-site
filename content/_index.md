@@ -20,9 +20,10 @@ language to understand what's actually happening in your organization, what's
 being asked of you, and how to step into the role without the constant
 second-guessing.
 
-{{< quote "Ryan Ellison, Senior Software Engineering Manager, Wayfair" >}}
-What initially felt overwhelming was soon transformed into calm and a clear
-direction under his guidance.
+{{< quote "Tyler D., Director of Engineering at a Series A startup" >}}
+I haven't had another coach where I felt such significant growth in myself as a
+person and as a leader. Other coaches have helped me with the job. Aaron has
+helped me more with myself.
 {{< /quote >}}
 
 {{< spacer >}}
@@ -38,9 +39,9 @@ direction under his guidance.
  - A leadership style that's authentically yours, rather than borrowed from
    whatever you think a good leader is supposed to look like
 
-{{< quote "Dalton Ryan, Engineering Manager, MathWorks" >}}
-Aaron provides a mirror to view your present self, the best version of yourself
-in the future, and the strategy and success criteria necessary to close the gap.
+{{< quote "Shea B., CTO, Mentra" >}}
+My entire approach to leadership, management, and problem solving has been
+radically changed because of my coaching with Aaron.
 {{< /quote >}}
 {{< /homesection >}}
 

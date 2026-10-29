@@ -32,7 +32,7 @@ them earn more money or "climb the ladder."
 A raise or promotion is likely to arrive as a result of your growth, but it is
 never the explicit goal.
 
-{{< quote "Viktoras Truchanovicius, Staff Software Engineer, LinkedIn" >}}
+{{< quote "Viktoras T., Staff Software Engineer, LinkedIn" >}}
 I was very much in control of the whole experience and outcomes, which was
 uncomfortable at first, but after a few sessions I realized that it was
 yielding great results, so I began to lean into it more.
