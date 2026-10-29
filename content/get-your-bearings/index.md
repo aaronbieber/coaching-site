@@ -16,6 +16,8 @@ What initially felt overwhelming was soon transformed into calm and a clear
 direction under his guidance.
 {{< /quote >}}
 
+{{< spacer >}}
+
 <img src="/images/hiking-couple-with-sign.png" alt="Illustration of a hiking couple at a trail sign" class="native half">
 
 {{< spacer >}}
@@ -59,6 +61,15 @@ ambitions at work to align with those values.
 A single 60-minute video call (I use Google Meet), scheduled at a time that
 works for you. Come with whatever is unclear, half-formed, or stuck. You don't
 need to have it organized before we talk; that's what the hour is for.
+
+{{< quote "Dalton R., Engineering Manager, MathWorks" >}}
+Aaron provides a mirror to view your present self, the best version of yourself
+in the future, and the strategy and success criteria necessary to close the gap.
+{{< /quote >}}
+
+<div class="cta-action" style="margin-top: 2em;">
+{{< button medium "https://payments-na1.hubspot.com/payments/rhJZhcfWzMC?referrer=PAYMENT_LINK" blank >}}Book Your Session{{< /button >}}
+</div>
 
 {{< hr >}}
 
