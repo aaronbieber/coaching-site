@@ -2,6 +2,10 @@
 title: Get Your Bearings
 layout: page
 banner: false
+share_title: "Get Your Bearings: one hour of clarity with Aaron Bieber"
+description: "A single one-hour conversation for the decision, the dreaded conversation, or the choice you keep circling, with a clear next step at the end."
+share_image: /images/get-your-bearings-share.png
+share_image_alt: "What would you do if you were sure? Get Your Bearings: find clarity in one hour."
 aliases:
   - /clear-the-fog/
 ---

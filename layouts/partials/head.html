@@ -1,0 +1,57 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  {{ $options := (dict "outputstyle" "compressed") }}
+  {{ $styles := resources.Get "scss/main.scss" | toCSS $options | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" type="text/css" media="screen" />
+
+  <link rel="stylesheet" href="https://use.typekit.net/gur7hoz.css">
+
+  {{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
+  {{ .Scratch.Set "title" .Page.Title }}
+  {{ if (eq (.Scratch.Get "title") "") }}
+    {{ .Scratch.Set "title" .Site.Title }}
+  {{ end }}
+  <title>{{ .Scratch.Get "title" }}{{ if not (eq (.Scratch.Get "title") .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
+
+  {{ if .IsPage }}
+  {{ .Scratch.Set "image" (.Site.BaseURL | printf "%s/twitter-banner-500.png") }}
+  {{ if and .IsPage .Params.image }}
+  {{ $img := .Params.image | printf "%s/%s/%s" .Site.BaseURL "uploads" }}
+  {{ .Scratch.Set "image" $img }}
+  {{ end }}
+  {{ with .Params.share_image }}
+  {{ $.Scratch.Set "image" (. | absURL) }}
+  {{ end }}
+  {{ $shareTitle := .Params.share_title | default .Page.Title }}
+  {{ $shareDescription := .Params.description | default .Summary }}
+  {{ with .Params.description }}
+  <meta name="description" content="{{ . }}" />
+  {{ end }}
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:title" content="{{ $shareTitle }}" />
+  <meta property="og:description" content="{{ $shareDescription }}" />
+  <meta property="og:image" content="{{ .Scratch.Get "image" }}" />
+  {{ if .Params.share_image }}
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="627" />
+  {{ with .Params.share_image_alt }}
+  <meta property="og:image:alt" content="{{ . }}" />
+  {{ end }}
+  {{ end }}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@aaronbieber" />
+  <meta name="twitter:title" content="{{ $shareTitle }}" />
+  <meta name="twitter:description" content="{{ $shareDescription }}" />
+  <meta name="twitter:image" content="{{ .Scratch.Get "image" }}" />
+  {{ end }}
+</head>
